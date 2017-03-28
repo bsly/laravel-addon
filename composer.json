@@ -1,6 +1,5 @@
 {
     "name": "bsly/laravel-addon",
-    "version": "0.0.1",
     "autoload": {
         "psr-0" : {
             "Bsly\\LaravelAddon" : "src"
