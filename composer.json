@@ -1,0 +1,8 @@
+{
+    "name": "bsly/laravel-addon",
+    "autoload": {
+        "psr-0" : {
+            "Bsly\\LaravelAddon" : "src"
+        }
+    }
+}
